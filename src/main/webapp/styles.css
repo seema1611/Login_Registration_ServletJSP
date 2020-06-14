@@ -1,0 +1,56 @@
+body {
+    background: #393e46
+}
+
+.form-body {
+    height: 50%;
+    width: 50%;
+    border-radius: 25px;
+    position: relative;
+    color: black;
+    text-align: center;
+    padding-top: 1%;
+    background: cyan;
+}
+
+button {
+    height: 50px;
+    width: 40%;
+    border-radius: 25px;
+    font-size: 1em;
+    background: #393e46;
+    color: cyan;
+    font-weight: 600;
+    outline: -webkit-focus-ring-color auto 0px;
+}
+
+.form-input-text{
+    height: 50px;
+    width: 80%;
+    font-size: 1em;
+    text-align: left;
+    padding-left: 10px;
+    border-radius: 15px;
+    color: #393e46
+}
+
+.form-body-loginform {
+    height: 65%;
+    width: 40%;
+    margin-top: 7%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.form-body-registerform{
+    height: 80%;
+    width: 40%;
+    margin-top: 7%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+a{
+    color:  #32e0c4;
+    text-decoration: none;
+}
